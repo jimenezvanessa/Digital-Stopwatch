@@ -63,14 +63,7 @@ git clone https://github.com/yourusername/simple-stopwatch.git
 
 ## License
 
-This project is licensed under the MIT License.
-
----
-
-## Author
-
-[Your Name]  
-[Your Contact or GitHub URL]
+This project is for educational purposes
 
 ---
 
